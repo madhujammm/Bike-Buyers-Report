@@ -72,5 +72,5 @@ This project presents an interactive **Power BI dashboard** and a performance sc
 
 ---
 
-📌 *Created as part of the Business Intelligence C2P2 Project-II*  
+📌 *Created as part of the Business Intelligence Project*  
 💼 *For more projects, check my GitHub profile!*
